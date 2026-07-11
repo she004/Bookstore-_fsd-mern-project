@@ -65,7 +65,7 @@ This is a full-stack web application for a book store built using the MERN stack
 - Node.js
 
 ## Contributors
-- 
+
 -Sheetal Degala
  sheetaldegala6725@gmail.com
 -Immanuel Gaddam
