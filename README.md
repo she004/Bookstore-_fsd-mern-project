@@ -65,7 +65,12 @@ This is a full-stack web application for a book store built using the MERN stack
 - Node.js
 
 ## Contributors
-- [atharvkhardekar](https://github.com/atharvkhardekar)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 
+-Sheetal Degala
+ sheetaldegala6725@gmail.com
+-Immanuel Gaddam
+ gaddamimmanuel@gmail.com
+-Yaswanth Venkata Sai Tiramdasu
+ yaswanthsaitiramdasu010@gmail.com
+-Shirisha Yenuganti
+ yenugantisirisha47@gmail.co
