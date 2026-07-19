@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Optional: Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Optional: Body Styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+
+ 
+
+
+
